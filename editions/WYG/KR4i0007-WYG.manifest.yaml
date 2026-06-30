@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4i0007/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4i0007/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續詩話
+  date: '2015-08-25 00:44:18.184304'
+  source:
+    repository: kanripo
+    path: KR4i0007
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4i0007_000-WYG.yaml, hash: 'sha256:cfe5a1eca9d82566fce2148bd37f8fb0350358bb65160444ec743cfd21d2a229'}
+  - {seq: 1, filename: KR4i0007_001-WYG.yaml, hash: 'sha256:fa941ad0993ac9c464a2d9bd21dbcc4ecc6a7b65af520a95a3f02a2f6407130a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4i0007_000-WYG.markers.yaml, hash: 'sha256:94d60386197f988811ea3f750332a77ebb0faa75161c33ef3f1955562c72ea01'}
+  - {seq: 1, role: markers, filename: assets/KR4i0007_001-WYG.markers.yaml, hash: 'sha256:bd2ac63c0016c89d33a5045536fa48a8680bf6250abac44dc4adb3f5cf66e92b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4i0007_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 310
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4i0007_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 3210
+  label: 續詩話
+  type: section
+  level: 1
+hash: sha256:16f4aac12cce3b532d25c57cd460bb0d0e4d0232681911b06e76e2ce7cfb9fcf
