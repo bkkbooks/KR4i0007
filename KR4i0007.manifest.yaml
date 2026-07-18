@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4i0007_000.yaml, hash: 'sha256:cafd7afd067594b8fa83a45bfce9789104eaa67347e499c3ee744a42a8cd0ccd'}
   - {seq: 1, filename: KR4i0007_001.yaml, hash: 'sha256:be6b257cf0d15d042f348ac31db760912d25ce74008e76a97782b3179d34faa6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0007_000.markers.yaml, hash: 'sha256:b3d86763eec1294f9104198f963d93dfa34154fbe17b21f77e24dcd1e8bc8e8a'}
-  - {seq: 1, role: markers, filename: assets/KR4i0007_001.markers.yaml, hash: 'sha256:de6d50e9c795e54f3f90e2a7230f51a2ba21bcc46273d2d0614687f577aaa551'}
+  - {seq: 0, role: markers, filename: assets/KR4i0007_000.markers.yaml, hash: 'sha256:fd9c634d56c7bd807f57c500e2ed604fdb47d02a4b33b2cbd0ddefed494c39cb'}
+  - {seq: 1, role: markers, filename: assets/KR4i0007_001.markers.yaml, hash: 'sha256:4f2ec011721856939b27b6bbecef53e8197a82b80645caeb98ccdb4af0a70d6c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 續詩話
   type: section
   level: 1
-hash: sha256:0e360a45d73df855a82cbe1191c9db8b4be2ac66ea90038e869ad0a848cb5963
+hash: sha256:f0ea8ca2672559bea477f64a06bdb4555d056d58f988ba3a8b1955460189acc2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
